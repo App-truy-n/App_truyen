@@ -3,8 +3,6 @@
 I. Giới thiệu
 📖 Đây là một ứng dụng đọc truyện được phát triển trên nền tảng Android, giúp người dùng dễ dàng khám phá, tìm kiếm và theo dõi truyện yêu thích. Ứng dụng được thiết kế nhằm mang lại trải nghiệm đọc truyện mượt mà, hiện đại và tiện lợi.
 
-🚀 Dự án được xây dựng nhằm mục đích học tập và áp dụng các công nghệ mới nhất trong phát triển ứng dụng Android, bao gồm Jetpack Compose, MVVM, Room Database và API integration.
-
 II. Tính năng chính
 1. Khám phá truyện
 🔥 Đề xuất: Hiển thị danh sách truyện gợi ý theo sở thích của người dùng.
