@@ -1,6 +1,7 @@
 # App truyện
 Ứng dụng Đọc Truyện - Story Reader App
 I. Giới thiệu
+
 📖 Đây là một ứng dụng đọc truyện được phát triển trên nền tảng Android, giúp người dùng dễ dàng khám phá, tìm kiếm và theo dõi truyện yêu thích. Ứng dụng được thiết kế nhằm mang lại trải nghiệm đọc truyện mượt mà, hiện đại và tiện lợi.
 
 II. Tính năng chính
