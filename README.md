@@ -1,5 +1,6 @@
 # App truyện
 Ứng dụng Đọc Truyện - Story Reader App
+Link Figma: https://www.figma.com/design/coVXQTp6lzhg17LrYvHgGg/Untitled?node-id=0-1&p=f&t=aq6fHOLrAv7TWiX7-0
 
 I. Giới thiệu
 
