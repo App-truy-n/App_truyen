@@ -40,5 +40,6 @@ II. Tính năng chính
 
 📥 Quản lý danh sách truyện đã tải về để đọc offline.
 
-![image](https://github.com/user-attachments/assets/5b70f84e-859d-4824-b347-f67fead34ee3)
+![image](https://github.com/user-attachments/assets/25b69f9b-a713-450c-b93d-d8601ff7f278)
+
 
