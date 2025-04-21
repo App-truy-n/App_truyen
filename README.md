@@ -19,9 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Ứng dụng đọc truyện tranh sử dụng SQLite và mô hình MVVM.
 
-## Yêu cầu
-- Flutter SDK: >= 2.12.0
-- Đã cài đặt các dependency trong `pubspec.yaml`
 
 ## Cấu trúc thư mục
 - `lib/models/`: Chứa các mô hình dữ liệu (Comic, Chapter, User).
