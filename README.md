@@ -1,5 +1,6 @@
 # do_an_truyen
 
+link figma: https://www.figma.com/design/coVXQTp6lzhg17LrYvHgGg/%C4%90%E1%BB%93-%C3%A1n-App-truy%E1%BB%87n?node-id=0-1&p=f&t=xzI2idFB0w2XVel2-0
 
 ## Getting Started
 
