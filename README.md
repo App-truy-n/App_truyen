@@ -2,18 +2,24 @@
 
 link figma: https://www.figma.com/design/coVXQTp6lzhg17LrYvHgGg/%C4%90%E1%BB%93-%C3%A1n-App-truy%E1%BB%87n?node-id=0-1&p=f&t=xzI2idFB0w2XVel2-0
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+I. Giới thiệu
 
-A few resources to get you started if this is your first Flutter project:
+📖 Đây là một ứng dụng đọc truyện được phát triển trên nền tảng Android, giúp người dùng dễ dàng khám phá, tìm kiếm và theo dõi truyện yêu thích. Ứng dụng được thiết kế nhằm mang lại trải nghiệm đọc truyện mượt mà, hiện đại và tiện lợi.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+II. Tính năng chính
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Trang chủ
+   
+📊 Hiển thị danh sách các truyện phổ biến nhất.
+
+❤️ Truyện yêu thích: Danh sách truyện mà người dùng đã đánh dấu yêu thích.
+
+📚 Tìm kiếm: chức năng tìm kiếm giúp truy cập đến truyện muốn tìm
+
+3. Quản lý tài khoản
+
+🚪 Đăng xuất tài khoản.
 
 # Comic App (MVVM)
 
