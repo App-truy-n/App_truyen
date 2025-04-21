@@ -1,6 +1,5 @@
 # do_an_truyen
 
-A new Flutter project.
 
 ## Getting Started
 
