@@ -35,3 +35,6 @@ samples, guidance on mobile development, and a full API reference.
 3. ## Thêm truyện mới
 - Thêm file ảnh bìa và PDF vào thư mục `assets/`.
 - Cập nhật hàm `_addSampleData()` trong `main.dart` để thêm truyện mới
+
+  ![image](https://github.com/user-attachments/assets/ac64045d-771a-460a-9222-2c3ccfb03cba)
+
